@@ -30,6 +30,8 @@ This is where I'll share what I'm building, experiment with new ideas, and docum
 
 An offline CV builder with Arabic, French, and English support, ten customizable templates, a live A4 preview, and PDF/PNG export.
 
+**[Try Sira live →](https://badr-elfahm.github.io/sira-cv-builder/)**
+
 **Built with:** HTML · CSS · JavaScript
 
 [View the project, screenshots, and setup guide →](https://github.com/Badr-Elfahm/sira-cv-builder)
