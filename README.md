@@ -6,7 +6,7 @@
 
 Turning ideas into websites and web applications.
 
-[Explore my repositories](https://github.com/Badr-Elfahm?tab=repositories)
+[Explore my repositories](https://github.com/Badr-Elfahm?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/badr-el-fahm-19b151199/)
 
 </div>
 
