@@ -26,7 +26,13 @@ This is where I'll share what I'm building, experiment with new ideas, and docum
 
 ## Projects
 
-I'm preparing my current projects for GitHub. I'll feature them here with an overview, screenshots, and instructions for running them.
+### [Sira — CV Builder](https://github.com/Badr-Elfahm/sira-cv-builder)
+
+An offline CV builder with Arabic, French, and English support, ten customizable templates, a live A4 preview, and PDF/PNG export.
+
+**Built with:** HTML · CSS · JavaScript
+
+[View the project, screenshots, and setup guide →](https://github.com/Badr-Elfahm/sira-cv-builder)
 
 [Browse my repositories →](https://github.com/Badr-Elfahm?tab=repositories)
 
