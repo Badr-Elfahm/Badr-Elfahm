@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Badr-Elfahm/Badr-Elfahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Badr 👋
 
-Here are some ideas to get you started:
+### Web Developer · AI-Assisted Development · Vibe Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Turning ideas into websites and web applications.
+
+[Explore my repositories](https://github.com/Badr-Elfahm?tab=repositories)
+
+</div>
+
+---
+
+## About me
+
+I build websites and web applications, combining web development with AI-assisted tools and vibe coding to turn ideas into working projects.
+
+This is where I'll share what I'm building, experiment with new ideas, and document my progress.
+
+## What I work on
+
+- **Web development** — building websites and web applications.
+- **AI-assisted development** — using AI tools as part of my coding process.
+- **Vibe coding** — exploring ideas through prompts, prototypes, and iteration.
+
+## Projects
+
+I'm preparing my current projects for GitHub. I'll feature them here with an overview, screenshots, and instructions for running them.
+
+[Browse my repositories →](https://github.com/Badr-Elfahm?tab=repositories)
+
+---
+
+<div align="center">
+
+**Build. Experiment. Improve.**
+
+</div>
