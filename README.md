@@ -1,47 +1,39 @@
-<div align="center">
+# Hi, I'm Badr
 
-# Hi, I'm Badr 👋
+### Web developer · HTML, CSS & JavaScript · Arabic-first interfaces
 
-### Web Developer · AI-Assisted Development · Vibe Coding
+I build websites and browser-based applications, from multilingual tools to visual galleries and interactive directories. I use AI-assisted tools to develop ideas, review implementations, and iterate.
 
-Turning ideas into websites and web applications.
+**[Portfolio →](https://badr-elfahm.github.io/Badr-Elfahm/)** · **[Try Sira →](https://badr-elfahm.github.io/sira-cv-builder/)** · **[LinkedIn →](https://www.linkedin.com/in/badr-el-fahm-19b151199/)**
 
-[Explore my repositories](https://github.com/Badr-Elfahm?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/badr-el-fahm-19b151199/)
+## Selected work
 
-</div>
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **Sira · سيرة** | Offline CV builder in Arabic, French and English, with 10 templates, A4 preview and PDF/PNG export. | [Live demo](https://badr-elfahm.github.io/sira-cv-builder/) · [Source & guide](https://github.com/Badr-Elfahm/sira-cv-builder) · [Project notes](projects/sira.md) |
+| **Traji · طراجي** | Arabic Morocco discovery guide with 21 destination pages, search, filters, saved places and a packing checklist. | [Project overview](projects/traji.md) |
+| **Athar · أثر** | Photography gallery with adaptive compositions, related-photo navigation, keyboard controls and mobile layouts. | [Project overview](projects/athar.md) |
+| **Souqi · سُوقي** | Arabic service-booking prototype exploring customer and technician flows, bookings and reviews through local demo data. | [Project overview](projects/souqi.md) |
 
----
+Traji, Athar and Souqi are presented here as project summaries; their source repositories remain private.
 
-## About me
+## What I focus on
 
-I build websites and web applications, combining web development with AI-assisted tools and vibe coding to turn ideas into working projects.
+- **Practical interfaces:** useful browser tools, clear navigation and responsive layouts.
+- **Arabic and multilingual experiences:** right-to-left layouts and language-aware interfaces.
+- **Browser-side features:** local storage, interactive filtering, galleries and document export.
+- **Clear project handoffs:** setup instructions, screenshots, implementation notes and honest prototype boundaries.
 
-This is where I'll share what I'm building, experiment with new ideas, and document my progress.
+## A closer look at Sira
 
-## What I work on
+[![Sira CV editor and A4 preview with demonstration data](https://raw.githubusercontent.com/Badr-Elfahm/sira-cv-builder/main/sira-preview.png)](https://badr-elfahm.github.io/sira-cv-builder/)
 
-- **Web development** — building websites and web applications.
-- **AI-assisted development** — using AI tools as part of my coding process.
-- **Vibe coding** — exploring ideas through prompts, prototypes, and iteration.
+[Read the English documentation](https://github.com/Badr-Elfahm/sira-cv-builder#readme) · [دليل الاستخدام بالعربية](https://github.com/Badr-Elfahm/sira-cv-builder/blob/main/GUIDE.ar.md)
 
-## Projects
+## Let's connect
 
-### [Sira — CV Builder](https://github.com/Badr-Elfahm/sira-cv-builder)
-
-An offline CV builder with Arabic, French, and English support, ten customizable templates, a live A4 preview, and PDF/PNG export.
-
-**[Try Sira live →](https://badr-elfahm.github.io/sira-cv-builder/)**
-
-**Built with:** HTML · CSS · JavaScript
-
-[View the project, screenshots, and setup guide →](https://github.com/Badr-Elfahm/sira-cv-builder)
-
-[Browse my repositories →](https://github.com/Badr-Elfahm?tab=repositories)
+For project discussions and feedback, [find me on LinkedIn](https://www.linkedin.com/in/badr-el-fahm-19b151199/).
 
 ---
 
-<div align="center">
-
-**Build. Experiment. Improve.**
-
-</div>
+مرحبًا، أنا بدر. أبني مواقع وتطبيقات ويب، مع اهتمام بالواجهات العربية وتجارب الاستخدام العملية. استعرض المشاريع أعلاه أو تواصل معي عبر لينكدإن.
